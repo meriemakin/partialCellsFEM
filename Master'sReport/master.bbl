@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+
+\bibitem{colella2}
+A.~Almgren, J.~Bell, P.~Colella, and L.~Howell.
+\newblock An adaptive pro jection method for the incompressible navier-stokes
+  equations.
+\newblock {\em In Proc. IMACS 14th World Conference}, 1994.
+
+\bibitem{colella}
+Philip Colella.
+\newblock Volume-of-fluid methods for partial differential equations in
+  irregular domains.
+\newblock {\em National Center for Theoretical Sciences Taiwan Summer Research
+  Program on Applied Mathematics:Numerical PDEs}, 2011.
+
+\bibitem{tranair}
+Forrester~T Johnson.
+\newblock The tranair rectangular grid approach to solving the nonlinear
+  full-potential equation about complex configurations.
+\newblock {\em Sadhana}, 16, 1991.
+
+\bibitem{tranair2}
+John~E. Bussoletti, Forrester~T. Johnson, Satish~S. Samant, David~P. Young, and
+  Richard~H. Burkhart.
+\newblock Em-tranair: steps toward solution of general 3d maxwell's equations.
+\newblock In {\em Proceedings of the 10th international conference on computing
+  methods in applied sciences and engineering on Computing methods in applied
+  sciences and engineering}, pages 49--72, Commack, NY, USA, 1991. Nova Science
+  Publishers, Inc.
+
+\bibitem{tranair3}
+P.~E. Rubbert, J.~E. Bussoletti, F.~T. Johnson, K.~W. Sidwell, W.~S. Row, S.~S.
+  Samant, G.~Sengupta, W.~H. Weatherill, R.~H. Burkhart, B.~L. Everson, D.~P.
+  Young, and A.~C. Woo.
+\newblock Advances and trends.
+\newblock {\em Amer. Sot. Mech. Eng.}, 1986.
+
+\bibitem{eulair}
+Chittur~S. Venkatasubban.
+\newblock Eulair: a novel finite-element-based cartesian grid euler flow solver
+  that does not require cut-cell geometric information at solid boundaries.
+\newblock volume 458, 2002.
+
+\bibitem{eulair2}
+Chittur~S. Venkatasubban.
+\newblock A new Þnite element formulation for ale (arbitrary lagrangian
+  eulerian) compressible ßuid mechanics.
+\newblock {\em Int. J. Engng Sci.}, 33, 1995.
+
+\bibitem{tiger}
+Marsha Berger, Michael Aftomis, and John Melton.
+\newblock Accuracy, adaptive methods and complex geometry.
+\newblock {\em Proceedings First AFOSR Conference on Dynamic Motion CFD}, 1996.
+
+\bibitem{tiger2}
+M.~Aftosmis, J.~Melton, and M.~Berger.
+\newblock Robust and e?cient cartesian mesh generation for component-based
+  geometry.
+\newblock {\em 35th AIAA Aerospace Sciences Meeting}, 1997.
+
+\bibitem{tiger3}
+M.~Aftosmis, J.~Melton, and M.~Berger.
+\newblock Adaptation and surface modeling for cartesian mesh methods.
+\newblock {\em 12th AIAA Computational Fluid Dynamics Conference}, 1995.
+
+\bibitem{tiger4}
+John Melton.
+\newblock Automated three-dimensional cartesian grid generation and euler flow
+  solutions for arbitrary geometries.
+\newblock {\em PhD thesis U.C. Davis}, 1996.
+
+\bibitem{young}
+David~P. Young, Robin~G. Melvin, Michael~B. Bieterman, Forrester~T. Johnson,
+  Satish~S. Samant, and John~E. Bussoletti.
+\newblock A locally refined rectangular grid finite element method: Application
+  to computational fluid dynamics and computational physics.
+\newblock {\em Journal of Computational Physics}, 92, 1991.
+
+\bibitem{CIARLET80}
+P.G. Ciarlet.
+\newblock {\em The Finite Element Method for Elliptic Problems}.
+\newblock North-Holland, Amsterdam, 1980.
+
+\end{thebibliography}

@@ -1,0 +1,186 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title: quadraticInterpolationf.fig
+%%Creator: fig2dev Version 3.2 Patchlevel 5
+%%CreationDate: Fri Mar 25 19:25:16 2011
+%%For: mbensalah@zenon (Meriem Ben Salah)
+%%BoundingBox: 0 0 428 135
+%Magnification: 1.0000
+%%EndComments
+%%BeginProlog
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col1 {0.000 0.000 1.000 srgb} bind def
+/col2 {0.000 1.000 0.000 srgb} bind def
+/col3 {0.000 1.000 1.000 srgb} bind def
+/col4 {1.000 0.000 0.000 srgb} bind def
+/col5 {1.000 0.000 1.000 srgb} bind def
+/col6 {1.000 1.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+/col8 {0.000 0.000 0.560 srgb} bind def
+/col9 {0.000 0.000 0.690 srgb} bind def
+/col10 {0.000 0.000 0.820 srgb} bind def
+/col11 {0.530 0.810 1.000 srgb} bind def
+/col12 {0.000 0.560 0.000 srgb} bind def
+/col13 {0.000 0.690 0.000 srgb} bind def
+/col14 {0.000 0.820 0.000 srgb} bind def
+/col15 {0.000 0.560 0.560 srgb} bind def
+/col16 {0.000 0.690 0.690 srgb} bind def
+/col17 {0.000 0.820 0.820 srgb} bind def
+/col18 {0.560 0.000 0.000 srgb} bind def
+/col19 {0.690 0.000 0.000 srgb} bind def
+/col20 {0.820 0.000 0.000 srgb} bind def
+/col21 {0.560 0.000 0.560 srgb} bind def
+/col22 {0.690 0.000 0.690 srgb} bind def
+/col23 {0.820 0.000 0.820 srgb} bind def
+/col24 {0.500 0.190 0.000 srgb} bind def
+/col25 {0.630 0.250 0.000 srgb} bind def
+/col26 {0.750 0.380 0.000 srgb} bind def
+/col27 {1.000 0.500 0.500 srgb} bind def
+/col28 {1.000 0.630 0.630 srgb} bind def
+/col29 {1.000 0.750 0.750 srgb} bind def
+/col30 {1.000 0.880 0.880 srgb} bind def
+/col31 {1.000 0.840 0.000 srgb} bind def
+
+end
+save
+newpath 0 135 moveto 0 0 lineto 428 0 lineto 428 135 lineto closepath clip newpath
+-98.5 336.9 translate
+1 -1 scale
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+ /DrawEllipse {
+	/endangle exch def
+	/startangle exch def
+	/yrad exch def
+	/xrad exch def
+	/y exch def
+	/x exch def
+	/savematrix mtrx currentmatrix def
+	x y tr xrad yrad sc 0 0 1 startangle endangle arc
+	closepath
+	savematrix setmatrix
+	} def
+
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+$F2psBegin
+10 setmiterlimit
+0 slj 0 slc
+ 0.06299 0.06299 sc
+%%EndProlog
+%
+% Fig objects follow
+%
+% 
+% here starts figure with depth 50
+% Ellipse
+7.500 slw
+n 8261 3960 64 64 0 360 DrawEllipse gs col1 1.00 shd ef gr gs col1 s gr
+
+% Ellipse
+n 6825 3345 64 64 0 360 DrawEllipse gs col1 1.00 shd ef gr gs col1 s gr
+
+% Ellipse
+n 6030 3285 64 64 0 360 DrawEllipse gs col1 1.00 shd ef gr gs col1 s gr
+
+% Ellipse
+n 3855 4155 64 64 0 360 DrawEllipse gs col1 1.00 shd ef gr gs col1 s gr
+
+% Ellipse
+n 8276 4515 64 64 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+
+% Ellipse
+n 6045 4500 64 64 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+
+% Ellipse
+n 3825 4500 64 64 0 360 DrawEllipse gs 0.00 setgray ef gr gs col0 s gr
+
+% Polyline
+0 slj
+0 slc
+n 8325 4500 m
+ 6075 4500 l gs col0 s gr 
+% Polyline
+n 6075 4500 m
+ 3825 4500 l gs col0 s gr 
+% Polyline
+ [60] 0 sd
+n 3825 4500 m
+ 1575 4500 l gs col0 s gr  [] 0 sd
+% Polyline
+n 6825 4260 m
+ 6825 4710 l gs col0 s gr 
+% Polyline
+n 3810 4890 m
+ 3810 5145 l gs col0 s gr 
+% Polyline
+gs  clippath
+4153 5055 m 4305 5055 l 4305 4995 l 4153 4995 l 4153 4995 l 4273 5025 l 4153 5055 l cp
+eoclip
+n 4290 5025 m
+ 3810 5025 l gs col0 s gr gr
+
+% arrowhead
+n 4153 5055 m 4273 5025 l 4153 4995 l  col0 s
+% Polyline
+2 slj
+n 8205 3960 m 8204 3960 l 8203 3959 l 8200 3957 l 8195 3954 l 8189 3949 l
+ 8180 3943 l 8168 3936 l 8154 3927 l 8137 3916 l 8117 3903 l
+ 8093 3889 l 8067 3872 l 8038 3855 l 8007 3836 l 7972 3815 l
+ 7935 3793 l 7896 3771 l 7854 3747 l 7811 3723 l 7765 3698 l
+ 7718 3673 l 7669 3648 l 7619 3623 l 7567 3598 l 7514 3573 l
+ 7459 3548 l 7403 3524 l 7346 3501 l 7287 3478 l 7227 3457 l
+ 7164 3435 l 7100 3415 l 7034 3396 l 6966 3378 l 6895 3361 l
+ 6822 3345 l 6746 3331 l 6668 3318 l 6586 3307 l 6502 3298 l
+ 6415 3291 l 6325 3286 l 6233 3283 l 6140 3283 l 6045 3285 l
+ 5954 3290 l 5864 3298 l 5775 3307 l 5689 3319 l 5604 3333 l
+ 5522 3348 l 5442 3365 l 5365 3383 l 5291 3402 l 5219 3422 l
+ 5149 3444 l 5081 3466 l 5016 3489 l 4952 3513 l 4890 3538 l
+ 4830 3563 l 4771 3589 l 4713 3616 l 4657 3643 l 4602 3671 l
+ 4549 3698 l 4496 3726 l 4445 3755 l 4395 3783 l 4347 3811 l
+ 4300 3839 l 4255 3866 l 4211 3893 l 4170 3919 l 4130 3944 l
+ 4093 3968 l 4058 3991 l 4025 4013 l 3995 4033 l 3968 4051 l
+ 3944 4068 l 3922 4082 l 3903 4095 l 3887 4107 l 3874 4116 l
+ 3863 4123 l 3855 4129 l 3849 4134 l 3845 4137 l 3842 4139 l
+ 3841 4140 l
+ 3840 4140 l gs col1 s gr 
+% here ends figure;
+$F2psEnd
+rs
+showpage
+%%Trailer
+%EOF

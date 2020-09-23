@@ -1,0 +1,25 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces One dimensional domain in a grid mesh}}{27}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Top: linear Interpolation over partial element. Bottom: quadratic interpolation over full element adjacent to partial element}}{27}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces H$^0$- and H$^1$-convergence rate of one-dimensional Dirichlet-Dirichlet-problem solved with finite elements and partial cells}}{28}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces : H$^0$- and H$^1$-convergence rate of one-dimensional Dirichlet-Neumann-problem solved with finite elements and partial cells}}{29}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Comparison of H$^0$- and H$^1$-convergence rates of a one-dimensional Dirichlet-Dirichlet-problem solved with finite elements and partial cells for different partial cells ratios $\alpha = 0.3, 0.5, 08$}}{30}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Comparison of H$^0$- and H$^1$-convergence rates of a one-dimensional Dirichlet-Neumann-problem solved with finite elements and partial cells for different partial cell ratios $\alpha = 0.3, 0.5, 08$}}{31}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Comparison of H$^0$- and H$^1$-convergences of one-dimensional Dirichlet-Neumann-problem solved with finite Elements and partial Cells using constant interpolation of Neumann boundary condition for different partial cell ratios $\alpha = 0.3, 0.5, 0.8$}}{32}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Partial Element Cases: (a) $3$ hanging nodes and $2$ intersection points (b) $2$ hanging nodes and $2$ intersection points (c) $1$ hanging node and $2$ intersection points}}{33}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces $3$ Types of elements: partial, full, void}}{33}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Special cases of elements : (d) a void element, (e) an interior element, (f) a partial element}}{34}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Calculation of intersection points for the cases: (a) one hanging node (b) two hanging nodes (c) three hanging nodes}}{34}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Bad case for interpolating a Neumann boundary condition}}{34}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Convergence rate in the H$^0$- and H$^1$-error norm of a Dirichlet Problem}}{36}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Convergence rate comparison of bi-directional and unidirectional interpolation in the H$^0$- and H$^1$-error norm}}{37}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Convergence rate in the H$^0$- and H$^1$-error norm of an annular domain with Dirichlet-Dirichlet boundary conditions}}{38}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Convergence rate in the H$^0$- and H$^1$error norm}}{39}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces H$^0$-convergence rate of shifting the Dirichlet circle center along x-direction and y-direction}}{40}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces H$^1$-convergence rate of shifting the Dirichlet circle center along x-direction and y-direction}}{41}{figure.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces H$^0$-convergence rate of shifting the Dirichlet annulus center along x-direction and y-direction}}{42}{figure.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces H$^1$-convergence rate of shifting the Dirichlet annulus center along x-direction and y-direction: }}{43}{figure.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces H$^0$-convergence rate of shifting the Neumann-Dirichlet annulus center along x-direction and y-direction}}{44}{figure.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces H$^1$-convergence rate of shifting the Neumann-Dirichlet annulus center along x-direction and y-direction}}{45}{figure.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Initial Mesh, finer Mesh, neighbor Averaged Mesh}}{46}{figure.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Convergence rate comparison of structured vs. unstructured mesh in the H$^0$- and H$^1$-error norm}}{47}{figure.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Convergence rate comparison of initial vs. improved mesh in the H$^0$- and H$^1$-error norm}}{48}{figure.25}

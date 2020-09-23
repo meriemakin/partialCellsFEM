@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Motivation from One-Dimension}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Method}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Convergence analysis}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Dirichlet-Dirichlet Model Problem}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Dirichlet-Neumann Model Problem}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Partial Element Effect on Convergence}{subsection.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Alternative Methodologies}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Two-dimensional development}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Method}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Dirichlet Model Problems}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Dirichlet-Neumann Problem for Annular Domain}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Effect of randomness}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.5}{Structured vs unstructured grids}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Conclusions}{}% 15
+\BOOKMARK [1][-]{section.4}{Bibliography}{}% 16
+\BOOKMARK [1][-]{appendix.1}{Tables}{}% 17
+\BOOKMARK [1][-]{appendix.2}{Figures}{}% 18
+\BOOKMARK [1][-]{appendix.3}{Algorithm}{}% 19
